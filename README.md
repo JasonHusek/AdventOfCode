@@ -1,2 +1,4 @@
 # AdventOfCode
-Going through Advent of Code 2021 in Rust
+Going through [AdventOfCode](https://adventofcode.com/) 2021 in Rust
+
+This contains spoilers.
