@@ -1,0 +1,2 @@
+# AdventOfCode
+Going through Advent of Code 2021 in Rust
